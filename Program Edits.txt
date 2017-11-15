@@ -1,0 +1,11 @@
+Kurtlynd McLane
+CS 371
+P3 - Coverage
+
+IglooScore1.java
+=================
+Within this program, there were little to no errors. The only real correction that I made was with formatting some of the text to fit better with Eclipse.
+
+IglooScore2.java
+================
+Within this program, there was one small, but big error in the comparison cases. The last case assessed whether the third value was the lowest value, and if this passed true, the score1 and score2 variables should hold the 1st two values, not the third. However, one of them did hold the third value because the comparison operator was incorrect.
